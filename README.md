@@ -49,10 +49,11 @@ Um projeto utilizando o framework selenium para realização dos testes web, rea
 4. File ->> Import ->> Maven ->> Existing Maven Projects >> Navegue até a pasta em que você descompactou o zip
 5. Você irá executar o teste pelo Junit
 6. Junit
-7. src/test/java ->> br.com.test ->> "DashboardValidation.java" ou "LoginValidation.java"
+7. src/test/java ->> br.com.doc.suite ->> "AllTests.java"
 8. Clique com o botão direito do mouse no arquivo e execute como Run As "JUnit test"
-    
+
 # Suporte
+
 ## E-mail: massayoshi.campos@gmail.com
 ## Linkedin: https://www.linkedin.com/in/massayoshi-campos/
 > Se você tiver alguma dúvida sobre este repositório ou precisar de ajuda para contribuir, não hesite em entrar em contato comigo.
